@@ -1,2 +1,1 @@
-# Weather-App
-An android app for weather forecasting
+# Weather Cloud
